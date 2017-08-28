@@ -1,4 +1,4 @@
-# 基于交互形式
+# 基于互动形式
 
 ---
 ### 点击
@@ -15,10 +15,12 @@
 
 ### 画
 1. [必胜客万圣节策划](http://zj.qq.com/money/ywl_game_halloween.htm)
+2. [里约大冒险(网易)](http://d.news.163.com/active/2232636/olympic.html)
 
 ### 3D
-[四周年策划](http://zj.qq.com/money/ywl_dzw_four.htm)
-[双屏互动](http://mat1.gtimg.com/zj/yuwanli/dzw1706/paperplanes/index.html?id=100057)
+1. [四周年策划](http://zj.qq.com/money/ywl_dzw_four.htm)
+2. [双屏互动](http://mat1.gtimg.com/zj/yuwanli/dzw1706/paperplanes/index.html?id=100057)
+3. [淘宝造物节(淘宝)](http://show.im20.com.cn/zwj/)
 
 ### 滑动
 1. [年终策划-大事记](http://zj.qq.com/zt2016/2016hz/index.htm)
@@ -26,6 +28,9 @@
 
 ### 动效
 [舟山好网民](http://zj.qq.com/money/ywl_zhoushan_test.htm)
+
+### 视频
+[老司机](http://zj.qq.com/zt2016/video6_2/index.htm)
 
 套路
 1. [pace.js(<5k)](http://github.hubspot.com/pace/docs/welcome/)
@@ -35,5 +40,6 @@
     - background-image
     - 智图VS tiny png VS imgupload
     - webp
+4. 开机时间
 
           
