@@ -12,6 +12,7 @@
 ### 重力感应（陀螺仪）
 1. [2016七夕策划-视力表](http://zj.qq.com/money/ywl_qixi_game.htm)
 2. [佛亦有缘](http://zj.qq.com/money/ywl_fyyy.htm)
+3. [demo](http://192.168.39.74:9323/demo.html)
 
 ### 画
 1. [必胜客万圣节策划](http://zj.qq.com/money/ywl_game_halloween.htm)
@@ -19,9 +20,8 @@
 
 ### 3D
 1. [四周年策划](http://zj.qq.com/money/ywl_dzw_four.htm)
-2. [双屏互动](http://mat1.gtimg.com/zj/yuwanli/dzw1706/paperplanes/index.html?id=100057)
-3. [淘宝造物节(淘宝)](http://show.im20.com.cn/zwj/)
-
+2. [淘宝造物节(淘宝)](http://show.im20.com.cn/zwj/)
+3. [google大会互动环节](https://paperplanes.world/)
 ### 滑动
 1. [年终策划-大事记](http://zj.qq.com/zt2016/2016hz/index.htm)
 2. [绍兴中学-大事记](http://zj.qq.com/money/ywl_shaoxing_birth_test.htm)
@@ -31,6 +31,9 @@
 
 ### 视频
 [老司机](http://zj.qq.com/zt2016/video6_2/index.htm)
+
+### [jssdk](http://203.195.235.76/jssdk/)
+
 
 套路
 1. [pace.js(<5k)](http://github.hubspot.com/pace/docs/welcome/)
