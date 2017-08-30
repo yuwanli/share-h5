@@ -4,6 +4,7 @@
 ### 点击
 1. [腾讯大浙网鸡年新春送福](http://mat1.gtimg.com/zj/yuwanli/dzw1702/product/index.html)
 2. [愚人节策划](http://zj.qq.com/zt2017/April2017/index.htm)
+3. [重走2016](http://mat1.gtimg.com/zj/yuwanli/dzw1612/news_yearPlan/index.html)
 
 ### 拖拽
 1. [2016中秋策划-凑齐全家福](http://zj.qq.com/zt2016/zqqjf/index.htm)
@@ -20,8 +21,9 @@
 
 ### 3D
 1. [四周年策划](http://zj.qq.com/money/ywl_dzw_four.htm)
-2. [淘宝造物节(淘宝)](http://show.im20.com.cn/zwj/)
-3. [google大会互动环节](https://paperplanes.world/)
+2. [双屏互动](http://mat1.gtimg.com/zj/yuwanli/dzw1706/paperplanes/index.html?id=100057)
+3. [淘宝造物节(淘宝)](http://show.im20.com.cn/zwj/)
+
 ### 滑动
 1. [年终策划-大事记](http://zj.qq.com/zt2016/2016hz/index.htm)
 2. [绍兴中学-大事记](http://zj.qq.com/money/ywl_shaoxing_birth_test.htm)
